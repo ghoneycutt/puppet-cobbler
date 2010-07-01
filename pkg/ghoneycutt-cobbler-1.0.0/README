@@ -1,0 +1,7 @@
+cobbler
+
+Released 20100701 - Garrett Honeycutt - GPLv2
+
+https://fedorahosted.org/cobbler/
+
+Default username/password is root/cobbler. This can be changed with '$ htdigest files/users.digest Cobbler root'

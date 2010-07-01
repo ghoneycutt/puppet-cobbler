@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/apache"
+    },
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/dhcp"
+    },
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/puppet"
+    }
+  ],
+  "name": "ghoneycutt-cobbler",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "files/users.digest": "cf0e243feb8160a6101f47d6fc7470e2",
+    "templates/settings.erb": "bd770c7a85e0452a10f4debd9e4a1dc3",
+    "README": "9c0187f7a1433eccaf08da07f233adca",
+    "files/modules.conf": "1c374efc98e0f4610cda9e445400a392",
+    "tests/init.pp": "f833f5bc426944cf28199d53de8f51f6",
+    "templates/dhcp.template.erb": "7e57ae922325df0db2e228ff4f8a670d",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "872ea5501fa5319c091f747cedf7d595",
+    "manifests/init.pp": "597d6863150222d0af2b9f05c4ae7ccc"
+  },
+  "types": [
+
+  ]
+}
